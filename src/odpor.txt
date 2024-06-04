@@ -1,0 +1,8 @@
+R1 odpor 440
+R2 odpor 5000
+R3 odpor 1000
+R4 odpor 2000
+
+O1 paralelne R1 R2
+O2 paralelne R3 R4
+O3 seriovo O1 O2
